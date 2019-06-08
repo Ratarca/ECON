@@ -4,7 +4,7 @@ The main repository on economics contains some topics such as : tools, statistic
 
 ECONOMICS REPOSITORY |
 ------------ |
-[TOOLS TO WORK](https://github.com/Ratarca/py2work-ECON) |
+[py2work](https://github.com/Ratarca/py2work-ECON) |
 STATISTICS |
 ECONOMETRICS |
 FOUNDATIONS |
